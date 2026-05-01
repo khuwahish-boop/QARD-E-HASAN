@@ -1,0 +1,6 @@
+loan_id,username,amount,duration,status
+1,ali,10000,6,Pending
+2,ali,1000,3,Approved
+3,ali,1000,3,Pending
+4,ali,1000,3,Pending
+5,ali,5000,3,Pending
